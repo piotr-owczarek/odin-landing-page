@@ -6,7 +6,7 @@ Learning project - landing page.
 
 ## Demo
 
-xxx
+https://szejku11.github.io/odin-landing-page/
 
 
 ## Authors
