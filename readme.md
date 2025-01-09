@@ -1,5 +1,5 @@
 
-# odin-recipes
+# odin-landing-page
 
 Learning project - landing page.
 
